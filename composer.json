@@ -23,7 +23,7 @@
     "require": {
         "php": ">=7.3.0",
         "ext-json": "*",
-        "caseyamcl/guzzle_retry_middleware": "^2.3",
+        "caseyamcl/guzzle_retry_middleware": "^2.3"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.8",
