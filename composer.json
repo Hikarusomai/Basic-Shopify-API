@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=7.3.0",
-        "ext-json": "*",
+        "ext-json": "*"
     },
     "config": {
         "allow-plugins": {
